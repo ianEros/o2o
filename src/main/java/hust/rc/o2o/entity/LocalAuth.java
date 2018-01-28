@@ -1,4 +1,4 @@
-/**
+/*
  * Description:本地账号
  * File Name:LocalAuth
  * Date:2018/1/26

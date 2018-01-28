@@ -1,4 +1,4 @@
-/**
+/*
  * Description:用户信息
  * File Name:PersonInfo
  * Date:2018/1/26

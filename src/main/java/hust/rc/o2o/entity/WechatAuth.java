@@ -1,4 +1,4 @@
-/**
+/*
  * Description:微信账号
  * File Name:WechatAuth
  * Date:2018/1/26
