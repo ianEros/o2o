@@ -48,7 +48,7 @@ public class AreaController {
         }
         logger.error("test error!");
         long endTime = System.currentTimeMillis();
-        logger.debug("costTime:[{}]ms",endTime - startTime);
+        logger.debug("costTime:[{}ms]",endTime - startTime);
         logger.info("===END===");
         return modelMap;
     }

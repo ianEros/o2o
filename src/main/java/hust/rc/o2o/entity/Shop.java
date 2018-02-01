@@ -18,7 +18,7 @@ public class Shop {
     private String shopImg;
     private String priority;
     private Date createTime;
-    private Date lastEditTiem;
+    private Date lastEditTime;
     //-1.不可用 0.审核中 1.可用
     private Integer enableStatus;
     //超级管理员给店家的提醒
@@ -91,12 +91,12 @@ public class Shop {
         this.createTime = createTime;
     }
 
-    public Date getLastEditTiem() {
-        return lastEditTiem;
+    public Date getLastEditTime() {
+        return lastEditTime;
     }
 
-    public void setLastEditTiem(Date lastEditTiem) {
-        this.lastEditTiem = lastEditTiem;
+    public void setLastEditTime(Date lastEditTime) {
+        this.lastEditTime = lastEditTime;
     }
 
     public Integer getEnableStatus() {
